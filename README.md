@@ -1,6 +1,5 @@
 # AlgoViz: Pathfinding & Sorting Visualizer
 
-[![CI](https://github.com/pMag11-alt/algoviz/actions/workflows/ci.yml/badge.svg)](https://github.com/pMag11-alt/algoviz/actions/workflows/ci.yml)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2022-F7DF1E?logo=javascript&logoColor=black)
 ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-green)
