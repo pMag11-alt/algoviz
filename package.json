@@ -1,0 +1,15 @@
+{
+  "name": "algoviz",
+  "version": "1.0.0",
+  "description": "Interactive pathfinding and sorting algorithm visualizer, written in vanilla JavaScript.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node scripts/serve.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
